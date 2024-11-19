@@ -14,7 +14,7 @@ O **My Player** é um simples reprodutor de músicas desenvolvido em Python util
 
 ## Requisitos
 
-Para executar o Joshe Player, você precisa ter Python 3.x instalado em sua máquina, além das seguintes bibliotecas:
+Para executar o My Player, você precisa ter Python 3.x instalado em sua máquina, além das seguintes bibliotecas:
 
 - [Flet](https://flet.dev) — Para a criação da interface gráfica.
 - [Pygame](https://www.pygame.org/) — Para o controle da reprodução de áudio.
